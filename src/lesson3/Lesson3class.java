@@ -6,5 +6,9 @@ public class Lesson3class {
         System.out.println("Hi");
         System.out.println("Hi");
         System.out.println("Hi");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
+        System.out.println("Hello");
     }
 }
