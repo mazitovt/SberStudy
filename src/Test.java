@@ -11,6 +11,9 @@ public class Test {
     public static void main(String[] args) {
 
 
+
+        int fdg = 6;
+
         var r = func(56);
 
         var g = new Function<Integer, Integer>() {
